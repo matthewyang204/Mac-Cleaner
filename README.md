@@ -20,4 +20,4 @@ To use:
 1. Go to the Launchpad and click on the app.
 2. Empty your trash.
 
-Note: This app is no longer supported, as it requires Automator. Apple is phasing out Automator and replacing it with Shortcuts. Please check out the branch called "Application -> Shortcut" to find a newer version in the form of a shortcut.
+Note: This app is no longer supported, as it requires Automator. Apple is phasing out Automator and replacing it with Shortcuts. Please check out the branch called "Application->Shortcut" to find a newer version in the form of a shortcut.
