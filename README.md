@@ -1,9 +1,21 @@
 # Mac-Cleaner
 
-Requirements: macOS 10.4 or later
+A Mac app that clears caches and downloads on your disk. It is not a RAM cleaner, unlike what the icon says.
+
+Latest Version: 1.0
+
+Download it here:
+
+
+Requirements: macOS 13 (Ventura) or later
 
 To install:
 
 1. Download the disk image.
-2. Mount the image and drag the app to the folder that the arrow points to (an alias of your on-disk Applications folder). It might prompt you to enter your admin password, enter it if your Mac asks. The app will now be in your Applications folder.
-3. Enable Full Disk access in System Settings by adding it to the list and then making sure that the toggle is o
+2. Mount the image and launch the installer in the disk image. You may need to give the installer permissions and enter your admin password a few times. When a Preview windows opens showing "Installation complete." on a white background, you will know that the app is now in the Applications folder. (Note: Do not hide or trash the folder in your Documents folder called "Important Caches". Those are cache files that are important. The cleaner copies these files back to the "Caches" folder to ensure that Find My, Maps, and Weather work properly. MacOS 14 (Sonoma) users: Home now also uses these caches.
+3. Enable Full Disk access for the app "Mac Cleaner" (in your Applications folder) in System Settings by adding it to the list and then making sure that the toggle is on (this is so that the cleaner can access all of those trashy files on your disk.
+
+To use:
+
+1. Go to the Launchpad and click on the app.
+2. Empty your trash.
