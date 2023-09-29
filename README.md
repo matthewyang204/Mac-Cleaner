@@ -6,6 +6,7 @@ Latest Version: 1.1
 
 Download it here:
 https://github.com/matthewyang204/Mac-Cleaner/releases/download/1.1/Install.Mac.Cleaner.1.1.dmg
+
 To download older releases, visit the Releases page.
 
 Requirements: macOS 13 (Ventura) or later
