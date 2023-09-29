@@ -19,3 +19,7 @@ To use:
 
 1. Go to the Launchpad and click on the app.
 2. Empty your trash
+
+To update:
+1. Go through install steps 1-2.
+Note: You won't need to update permissions in System Settings. The installer automatically merges the new version of the app with the older one.
