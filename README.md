@@ -2,10 +2,11 @@
 
 A Mac app that clears caches and downloads on your disk. It is not a RAM cleaner, unlike what the icon says.
 
-Latest Version: 1.0
+Latest Version: 1.1
 
 Download it here:
-https://github.com/matthewyang204/Mac-Cleaner/releases/download/1.0/Install.Mac.Cleaner.dmg
+https://github.com/matthewyang204/Mac-Cleaner/releases/download/1.1/Install.Mac.Cleaner.1.1.dmg
+To download older releases, visit the Releases page.
 
 Requirements: macOS 13 (Ventura) or later
 
