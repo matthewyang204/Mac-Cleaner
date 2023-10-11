@@ -2,7 +2,7 @@
 
 A completely free Mac app that clears caches and downloads on your disk. It is not a RAM cleaner, unlike what the icon says. It was made with Automator, although it says it was made by Shortcuts due to Automator being based on Shortcuts since macOS 14 (Sonoma).
 
-Latest Version: 2.0
+Latest Version: 1.1
 
 Download it here:
 https://github.com/matthewyang204/Mac-Cleaner/releases/download/1.1/Install.Mac.Cleaner.1.1.dmg
