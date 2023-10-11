@@ -5,7 +5,7 @@ A completely free Mac app that clears caches and downloads on your disk. It is n
 Latest Version: 2.0
 
 Download it here:
-https://github.com/matthewyang204/Mac-Cleaner/releases/download/2.0/Install.Mac.Cleaner.2.0.dmg
+https://github.com/matthewyang204/Mac-Cleaner/releases/download/1.1/Install.Mac.Cleaner.1.1.dmg
 
 To download older releases, visit the Releases page.
 
