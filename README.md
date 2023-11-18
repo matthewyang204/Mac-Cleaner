@@ -5,9 +5,11 @@ A completely free Mac app that clears caches and downloads on your disk. It is n
 Latest Version: 2.0
 
 Download it here:
-https://github.com/matthewyang204/Mac-Cleaner/releases/download/2.0/Install.Mac.Cleaner.2.0.dmg
+https://github.com/matthewyang204/Mac-Cleaner/releases/download/Patch-1/Install.Mac.Cleaner.2.0.+.Patch-1.dmg
 
 To download older releases, visit the Releases page.
+
+Note: If you are updating from an older release, checkk the update instructions below.
 
 Requirements: macOS 13 (Ventura) or later
 
@@ -23,6 +25,5 @@ To use:
 2. Empty your trash
 
 To update:
-1. Go through install steps 1-2.
-2. Delete Mac Cleaner from your Full Disk Access preferences list.
-3. Re-enable full disk access for Mac Cleaner
+1. Download this disk image: https://github.com/matthewyang204/Mac-Cleaner/releases/download/Patch-1/Install.Mac.Cleaner.Patch-1.dmg
+2. Mount the disk image and launch the installer. When a Preview window opens showing "Installation Complete", it is finished. You have finished updating.
